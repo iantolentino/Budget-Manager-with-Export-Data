@@ -61,12 +61,6 @@ budget-tracker/
 
 ---
 
-## 📸 Screenshots
-
-*(Optional: add screenshots of dark mode, summary cards, and Excel export here)*
-
----
-
 ## 💡 Usage Tips
 
 * Use **Export JSON** to back up your data.
