@@ -99,4 +99,5 @@ Works on all modern browsers:
 ## License
 
 Free for personal and educational use.
+
 ```
